@@ -12,6 +12,7 @@ The sales data of the superstore was analyzed using Tableau, and a report was cr
 visualize the data. The report includes various charts and graphs to illustrate the sales 
 performance of the superstore, such as total sales, total quantity sold, profit by quarter and 
 year, and profit by subcategory. 
+
 Key Findings:  
 1. The total sales of the superstore were 2,326,534 dollars, indicating a healthy revenue 
 stream. 
